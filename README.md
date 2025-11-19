@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jeqele
-- 👀 I’m interested in java, php, bash, python, go.
+- 👀 I’m interested in java, php, bash, python, kotlin, .
 - 💞️ I’m looking to collaborate on funny projects.
 - 📫 How to reach me (amin.khalily@hotmail.com)
 
